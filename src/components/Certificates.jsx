@@ -9,8 +9,8 @@ import "swiper/css/pagination";
 export default function Certificates() {
   const certs = [
     { title: "Job Ready Cohort — Sheryians Coding School", img: "/images/certificate_shery.png" },
-    { title: "Full Stack Developer Certification", img: "/images/certificate_fullstack.png" },
-    { title: "Java Certification", img: "/images/certificate_java.png" },
+    { title: "Full Stack Developer Certification", img: "/images/fullstack.png" },
+    { title: "Java Certification", img: "/images/javaCertificate.png" },
     { title: "SQL Database Certification", img: "/images/certificate_sql.png" },
   ];
 
